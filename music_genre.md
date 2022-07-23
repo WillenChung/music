@@ -2,39 +2,39 @@
 
 作曲是指创作音乐的行为或音乐创作过程，也可以表示为音乐作品的创作者。编曲就是伴奏，是由很多种乐器组成的。一首歌曲作曲后如果没有编曲的话就不能称之为一首完整的歌曲。
 
-单曲(Single)
+单曲 Single
 
-迷你专辑(Extended Play)
+迷你专辑 Extended Play
 
-音乐专辑(Music Album)
+音乐专辑 Music Album
 
-音乐短片(Music Video/MV)
+音乐短片 Music Video/MV
 
-marsch 进行曲
+进行曲 Marsch  
 
-sonate 奏鸣曲
+奏鸣曲 Sonate 
 
-serenade 小夜曲
+小夜曲 Serenade 
 
-MWV 门德尔松
+门德尔松 MWV 
 
-Waltz 华尔兹 圆舞曲
+华尔兹 圆舞曲 Waltz 
 
-acoustic 原声的
+原声 Acoustic 
 
-deluxe 豪华的
+豪华 Deluxe 
 
-remix 混音
+混音 Remix 
 
-feat 功绩
+功绩 Feat 
 
-lyric 作词
+作词 Lyric 
 
-compose 作曲
+作曲 Compose 
 
-suite 组曲
+组曲 Suite 
 
-demo 样带
+样带 Demo 
 
 ## 音乐流派
 __流行 Pop__ 
