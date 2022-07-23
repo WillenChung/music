@@ -8,7 +8,7 @@ This is a repository to record my music style!
 
 中国摇滚: [chinese_rock.md](https://github.com/WillenChung/music/blob/master/chinese_rock.md)
 
-古典: [classical.md](https://github.com/WillenChung/music/blob/master/classical.md)
+古典音乐: [classical_music.md](https://github.com/WillenChung/music/blob/master/classical_music.md)
 
 新世纪: [new_age.md](https://github.com/WillenChung/music/blob/master/new_age.md)
 
