@@ -11,17 +11,29 @@
 音乐短片(Music Video/MV)
 
 marsch 进行曲
+
 sonate 奏鸣曲
+
 serenade 小夜曲
+
 MWV 门德尔松
+
 Waltz 华尔兹 圆舞曲
+
 acoustic 原声的
+
 deluxe 豪华的
+
 remix 混音
+
 feat 功绩
+
 lyric 作词
+
 compose 作曲
+
 suite 组曲
+
 demo 样带
 
 ## 音乐流派
