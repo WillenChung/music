@@ -71,8 +71,6 @@ __纯音乐 Absolute Music__
 
 灵歌 Soul 
 
-乡村 Country 
-
 布鲁斯/蓝调 Blues 
 
 朋克 Punk 
